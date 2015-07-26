@@ -1,0 +1,3 @@
+# TWRP-for-HWP7
+
+EMUI 3.0 -EMUI 3.1
